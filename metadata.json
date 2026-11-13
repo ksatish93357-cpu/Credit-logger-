@@ -1,0 +1,6 @@
+{
+  "name": "CREDIT LOGGER",
+  "description": "Universal Personal Credit, Interest & Payment Management System with Calendar-Based Interest Engine and Offline-First Storage",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
